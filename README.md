@@ -9,35 +9,35 @@ The purpose of this analysis was use javascript in order to filter a website tha
 
 -The creation of the website was pretty straight forward as it came from the initial work of the module in which HTML and CSS code was used in order to provide a visually appealing layout:
 
-![Screenshot](website_layout)
+![Screenshot](https://github.com/chgallegos/UFOs/blob/main/static/images/website_layout.png)
 
 -The next step was to add the new elements needed for table filtering, this was done by adding the following pieces of code below the original input field for the "Filter Search" field:
 
-![Screenshot](filters)
+![Screenshot](https://github.com/chgallegos/UFOs/blob/main/static/images/filters.png)
 
 ### PART 2 "Javascript app"
 
 -In this part of the analysis, with the use of a starter code, pieces of code were added in order to take the input from the user and hold into a variable. This input needed to match the id of the type of input, which was verified by looking at the console in the devTools of the browser.
 
-![Screenshot](filter_input)
+![Screenshot](https://github.com/chgallegos/UFOs/blob/main/static/images/filter_input.png)
 
-![Screenshot](console_check)
+![Screenshot](https://github.com/chgallegos/UFOs/blob/main/static/images/console_check.png)
 
 
 -Lastly, the filter inputs needed to be looped and replaced by the use of a for loop.
 
-![Screenshot](filter_loop)
+![Screenshot](https://github.com/chgallegos/UFOs/blob/main/static/images/filter_loop.png)
 
 
 ### PART 3 "Using the website"
 
 -The use of the website is pretty straightforward, the basis of it is to use filter parameters in order to locate ufo sightings based on the search criteria. This is simply done by inputing either, date, city, state, country or shape of the object. Keeping in mind that the placeholders of the search bars provide the an example with the correct syntax of the input needed for the filters to work. 
 
-![Screenshot](filter_search)
+![Screenshot](https://github.com/chgallegos/UFOs/blob/main/static/images/filter_search.png)
 
 -When the search criteria is inputted, the table filters itself automatically without needing to press enter nor a search button.
 
-![Screenshot](search_example)
+![Screenshot](https://github.com/chgallegos/UFOs/blob/main/static/images/search_example.png)
 
 ----
 ## Summary 
